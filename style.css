@@ -1,0 +1,17 @@
+h1, h2, strong {
+    color: darkgreen; /* Changed color to dark green */
+    font-family: 'Arial', sans-serif; /* Changed font family */
+}
+p, em {
+    color: rgb(88, 88, 88); /* Changed color to dark gray */
+    font-size: 1.1em; /* Increased font size */
+}
+ul {
+    border: 3px dashed blue; /* Changed border to dashed blue */
+}
+ol {
+    border: 3px solid red; /* Changed border to solid red */
+}
+ol, ul {
+    border-radius: 8px; /* Increased border radius */
+}
